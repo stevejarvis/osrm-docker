@@ -1,7 +1,7 @@
-OSRM in Docker
+Open Source Routing Machine in Docker
 ==============
 
-Sets up and run the Open Source Routing Machine with data for the state of Massachusetts.
+Sets up and run the OSRM with OpenStreetMap data for the state of Massachusetts (in a Docker container).
 
 ## Setup
 
